@@ -1,4 +1,4 @@
-version="0.0.0"
+version="0.0.1"
 tags={
 	"Alternative History"
 	"Events"
@@ -7,4 +7,4 @@ tags={
 	"Map"
 }
 name="Crossroads of the Atlantic: The Azorian Struggle"
-supported_version="1.12.11"
+supported_version="1.12.*"
