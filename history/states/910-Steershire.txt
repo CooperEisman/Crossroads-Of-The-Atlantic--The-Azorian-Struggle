@@ -8,7 +8,7 @@ state = {
 			arms_factory = 1
 		}
 		victory_points = {
-			13299 1
+			13258 1
 		}
 		owner = AZU
 		add_core_of = AZU
@@ -21,7 +21,7 @@ state = {
 	}
 
 	provinces = {
-		13299 13283 13274 13269 13275 13292
+		13258
 	}
 	manpower = 560000
 	buildings_max_level_factor = 1.000
