@@ -13297,7 +13297,7 @@
 13296;76;107;141;land;false;urban;1
 13297;2;149;79;land;true;urban;1
 13298;128;252;211;land;false;urban;1
-13299;24;129;167;land;false;urban;1
+13299;24;129;167;land;true;urban;1
 13300;96;139;165;land;false;urban;1
 13301;42;193;197;land;true;urban;1
 13302;116;165;166;land;false;urban;1
@@ -13310,7 +13310,7 @@
 13309;26;195;59;land;true;urban;1
 13310;27;152;22;land;false;urban;1
 13311;146;153;45;land;false;urban;1
-13312;126;134;1;land;true;urban;1
+13312;124;134;1;land;true;urban;1
 13313;249;45;226;land;true;urban;1
 13314;248;82;244;land;true;urban;1
 13315;218;45;204;land;true;urban;1
