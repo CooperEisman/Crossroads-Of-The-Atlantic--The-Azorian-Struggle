@@ -1,0 +1,25 @@
+focus_tree = {
+	id = azura_focus
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = AZU
+		}
+	}
+	#Focus for Focus One
+
+	focus = {
+		id = focus_AZU_Unite_The_Senate
+		icon = GFX_goal_AZU_Unite_the_Senate
+		x = 10
+		y = 0
+		cost = 10
+		available_if_capitulated = yes
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+#End of focuses 
+ }
