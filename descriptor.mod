@@ -7,5 +7,6 @@ tags={
 	"Map"
 }
 name="Crossroads of the Atlantic: The Azorian Struggle"
-supported_version="1.12.*"
+picture="thumbnail.png"
+supported_version="1.*.*"
 remote_file_id="2948301124"
