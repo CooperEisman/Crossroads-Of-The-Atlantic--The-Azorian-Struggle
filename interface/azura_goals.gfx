@@ -1,0 +1,6 @@
+spriteTypes = {	
+	SpriteType = { 
+		name = "GFX_goal_AZU_Unite_the_Senate"
+		texturefile = "gfx/interface/goals/focus_AZU_Unite_the_Senate.dds"
+	}
+}
