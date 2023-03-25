@@ -1,0 +1,15 @@
+characters={
+	AZU_Manuel_Lopez={
+		name="Manuel Lopez"
+		portraits={
+			civilian={
+				large="gfx/leaders/AZU/Manuel_Lopez.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1943.1.1"
+			id=-1
+		}
+	}
+}
