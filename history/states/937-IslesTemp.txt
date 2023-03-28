@@ -1,0 +1,27 @@
+state={
+	id=937
+	name="STATE_937"
+	history = {
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			
+		}
+		owner = AZU
+		add_core_of = AZU
+		
+		1936.6.1 = {
+			owner = AZU
+			controller = AZU
+		}
+
+	}
+	provinces={
+		13337 13338 13339 13340 13341 13342 13343 13344 13345 13346 13347 13348 13349 13350 13351 13352 13353 13354 13355 13356 13357 13358 13366 13367 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
