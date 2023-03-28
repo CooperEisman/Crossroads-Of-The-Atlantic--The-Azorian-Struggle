@@ -197,4 +197,26 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6691;9650;impassable;-1;-1;-1;-1;-1;;austrian alps
 9650;3684;impassable;-1;-1;-1;-1;-1;;austrian alps
 3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
+13274;13435;sea;8657;-1;-1;-1;-1;;azuraisles one
+13434;13435;sea;8657;-1;-1;-1;-1;;azuraisles two
+13433;13434;sea;8657;-1;-1;-1;-1;;azuraisles three
+13435;13436;sea;8657;-1;-1;-1;-1;;azuraisles five
+13436;13440;sea;5556;-1;-1;-1;-1;;azuraisles six
+13439;13440;sea;5556;-1;-1;-1;-1;;azuraisles seven
+13373;13439;sea;9076;-1;-1;-1;-1;;azuraisles eight
+13360;13438;sea;2336;-1;-1;-1;-1;;azuraisles nine
+13437;13438;sea;2336;-1;-1;-1;-1;;azuraisles ten
+13367;13373;sea;9076;-1;-1;-1;-1;;azuraisles eleven
+13357;13367;sea;8804;-1;-1;-1;-1;;azuraisles twelve
+13356;13358;sea;8804;-1;-1;-1;-1;;azuraisles thirteen
+13354;13439;sea;5556;-1;-1;-1;-1;;azuraisles fourteen
+13350;13353;sea;8977;-1;-1;-1;-1;;azuraisles fifteen
+13346;13433;sea;8977;-1;-1;-1;-1;;azuraisles sixteen
+13347;13366;sea;8977;-1;-1;-1;-1;;azuraisles seventeen
+13345;13366;sea;8781;-1;-1;-1;-1;;azuraisles eighteen
+13342;13433;sea;2985;-1;-1;-1;-1;;azuraisles nineteen
+13339;13341;sea;8781;-1;-1;-1;-1;;azuraisles twenty
+13270;13338;sea;5109;-1;-1;-1;-1;;azuraisles twentyone
+13291;13442;sea;47;-1;-1;-1;-1;;azuraisles twentytwo
+13442;13443;sea;47;-1;-1;-1;-1;;azuraisles twentythree
 -1;-1;;-1;-1;-1;-1;-1;-1
